@@ -39,3 +39,20 @@ To run this project locally, follow these steps:
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/Monieshkumar54/Predicting-Cyberbullying-on-Social-Media-Using-Machine-Learning-Techniques.git
+## Navigate to the project directory:
+
+cd Predicting-Cyberbullying-on-Social-Media-Using-Machine-Learning-Techniques
+
+## Results
+
+The model achieved the following performance metrics:
+
+Accuracy: 0.9080568223515227
+Precision: 0.9277217559326127
+Recall: 0.9650147603793732
+F1-Score: 0.9460008620158857
+These metrics indicate the model's effectiveness in identifying instances of cyberbullying.
+
+## Conclusion
+
+This project not only strengthened my technical skills in machine learning and data analysis but also deepened my understanding of the social implications of technology. I am passionate about leveraging data science to address real-world challenges, and this experience has further fueled my interest in the intersection of technology and social responsibility.
