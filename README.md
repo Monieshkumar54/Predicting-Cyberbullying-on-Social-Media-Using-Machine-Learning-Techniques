@@ -39,9 +39,6 @@ To run this project locally, follow these steps:
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/Monieshkumar54/Predicting-Cyberbullying-on-Social-Media-Using-Machine-Learning-Techniques.git
-## Navigate to the project directory:
- ```bash
-cd Predicting-Cyberbullying-on-Social-Media-Using-Machine-Learning-Techniques
 
 ## Results
 
