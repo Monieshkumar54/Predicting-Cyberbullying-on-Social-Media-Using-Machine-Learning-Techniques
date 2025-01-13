@@ -40,17 +40,17 @@ To run this project locally, follow these steps:
    ```bash
    git clone https://github.com/Monieshkumar54/Predicting-Cyberbullying-on-Social-Media-Using-Machine-Learning-Techniques.git
 ## Navigate to the project directory:
-
+ ```bash
 cd Predicting-Cyberbullying-on-Social-Media-Using-Machine-Learning-Techniques
 
 ## Results
 
 The model achieved the following performance metrics:
 
-Accuracy: 0.9080568223515227
-Precision: 0.9277217559326127
-Recall: 0.9650147603793732
-F1-Score: 0.9460008620158857
+- Accuracy: 0.9080568223515227
+- Precision: 0.9277217559326127
+- Recall: 0.9650147603793732
+- F1-Score: 0.9460008620158857
 These metrics indicate the model's effectiveness in identifying instances of cyberbullying.
 
 ## Conclusion
