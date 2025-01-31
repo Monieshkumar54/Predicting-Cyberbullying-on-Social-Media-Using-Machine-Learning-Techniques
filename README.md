@@ -30,7 +30,6 @@ This project aims to develop a machine learning model to predict instances of cy
 - Scikit-learn
 - Matplotlib (for data visualization)
 - NLTK or SpaCy (for natural language processing)
-- [Other relevant libraries or tools]
 
 ## Installation
 
